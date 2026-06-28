@@ -21,7 +21,30 @@ p {
 }
 
 /* this image stays centered no matter the screen size */
-#park-tai-chi {
+body {
+  font-family: Arial;
+  background-color: #eef3ee;
+  color: #333333;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #2e6b2e;
+}
+
+h2 {
+  color: #2e6b2e;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 700px;
+}
+
+/* this big image stays in the middle no matter the screen size */
+#group-tai-chi {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -29,13 +52,13 @@ p {
   border: 5px solid white;
 }
 
-.china-photo {
+.temple-photo {
   max-width: 100%;
   margin: 5px;
   border: 3px solid white;
 }
 
-.morning-photo {
+.solo-photo {
   max-width: 100%;
   margin: 5px;
   border: 3px solid white;
