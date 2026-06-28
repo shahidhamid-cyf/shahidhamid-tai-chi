@@ -53,13 +53,13 @@ p {
 }
 
 .temple-photo {
-  max-width: 100%;
+  max-width: 50%;
   margin: 5px;
   border: 3px solid white;
 }
 
 .solo-photo {
-  max-width: 100%;
+  max-width: 50%;
   margin: 5px;
   border: 3px solid white;
 }
